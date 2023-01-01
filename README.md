@@ -1,2 +1,0 @@
-# InstagramClone
-Instagram Clone Devtown
